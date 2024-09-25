@@ -17,12 +17,13 @@ Understanding gene regulation requires exploring complex genomic sequence struct
 
 If you use MCAT in your work, please reference it as follows:
 
-Saisan, P., & Glass, C. (2024). **MCAT: Motif Co-occurrence Analysis Tool** (Version 1.0) [Computer software]. GitHub. Retrieved from [https://github.com/psaisan/MCAT](https://github.com/psaisan/MCAT)
+Saisan, P., & Glass, C. (2024). *MCAT: Motif Co-occurrence Analysis Tool* (Version 1.0) [Computer software]. GitHub repository: https://github.com/psaisan/MCAT; Zenodo. https://doi.org/10.5281/zenodo.1234567
+
 
 ### BibTeX Entry
 
 ```bibtex
-@misc{saisan2024cartman,
+@misc{saisan2024MCAT,
   author       = {Saisan, P. and Glass, C.},
   title        = {MCAT: Motif Co-occurrence Analysis Tool},
   year         = {2024},
