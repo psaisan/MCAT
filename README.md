@@ -1,7 +1,7 @@
 # MCAT
 MCAT: Motif Co-occurence Analysis
 
-# Archive content offline: will be online shortly
+# Archive content offline temporarily while changes are being made
 
 
 ## Abstract
