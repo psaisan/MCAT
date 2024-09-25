@@ -10,7 +10,7 @@
 
 ## Abstract
 
-Understanding gene regulation requires exploring complex genomic sequence structures beyond individual transcription factor motifs. **MCAT** is a software tool that enables the discovery and quantification of motif co-occurrences within regulatory sequences and performs differential analysis of motif complexes across distinct experimental conditions. Unlike high-complexity machine learning approaches, the measures here are straightforward and interpretable minimizing computational overhead and user background requirements. The motif co-occurrence constructs parallel the simplicity and interpretability of motifs as co-occurrence of individual nucleotides, representing a logical and natural progression of well-established pioneering genomic motif discovery tools like [HOMER](http://homer.ucsd.edu/homer/) and [FIMO](https://meme-suite.org/meme/tools/fimo).
+Understanding gene regulation requires exploring complex genomic sequence structures beyond individual transcription factor motifs. **MCAT** is a software tool that enables the discovery and quantification of motif co-occurrences within regulatory sequences and performs differential analysis of motif complexes across distinct experimental conditions. Unlike high-complexity machine learning approaches, MCAT measures are straightforward and interpretable to minimize computational overhead and user background requirements. The motif co-occurrence constructs parallel the simplicity and interpretability of motifs as co-occurrence of individual nucleotides, representing a logical and natural progression of well-established pioneering genomic motif discovery tools like [HOMER](http://homer.ucsd.edu/homer/) and [FIMO](https://meme-suite.org/meme/tools/fimo).
 
 
 ## Citation   
