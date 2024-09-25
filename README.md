@@ -6,7 +6,7 @@
 
 #
 
-<img src="Images/pipeline.PNG"  style="border: 0;"/>
+<img src="MCAT/Images/pipeline.PNG"  style="border: 0;"/>
 
 ## Abstract
 
