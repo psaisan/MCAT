@@ -1,9 +1,12 @@
+**Changes are being applied: Archive Temporarily Offline**
+
+---
+
 **MCAT** : Motif Co-occurence Analysis Tool
 
---- 
+#
 
-# **Changes are being applied: Archive Temporarily Offline**
-
+<img src="Images/pipeline.PNG"  style="border: 0;"/>
 
 ## Abstract
 
