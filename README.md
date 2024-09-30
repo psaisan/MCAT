@@ -1,5 +1,3 @@
 
-# MCAT has been updated and moved to following:
-
-[CARTMAN (Co-occurrence Analysis of Repeating Transcription-factor Motifs And Networks)](https://github.com/psaisan/CARTMAN).
-
+# MCAT has been updated and moved under a new Name and DOI. 
+For questions feel free to contact repository author.
